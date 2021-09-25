@@ -16,6 +16,10 @@
   "platforms": {
     "ios": "8.2"
   },
+  "weak_frameworks": [
+    "SwiftUI",
+    "Combine"
+  ],
   "source_files": [
     "Parchment/**/*.swift",
     "Parchment/*.swift"
